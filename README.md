@@ -7,5 +7,6 @@ This repository contains projects and visualizations created from DS Program wit
 
 ## Statistics
 
-#Visual Communications
+## Visual Communications 
+
 
