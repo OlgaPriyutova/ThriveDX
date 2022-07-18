@@ -1,14 +1,13 @@
 # ThriveDX
 
-# Data Science & Analytics program
 
-This repository contains projects and visualizations created from DS Program with Wisconsin-Madison University.
+# Data Science & Analytics Portfolio
+This repository contains projects and visualizations from the Data Science & Analytics program with [HackerU](https://hackerusa.com/).
+<img src="https://github.com/wiazur/data-analytics-portfolio/blob/main/hackeru-logo.png" width="150"/>
+
 ## SQL
 
 ## Statistics
 
-## Visual Communications 
+## Visual Communications
 
-
-
-![image](https://user-images.githubusercontent.com/51418785/179575842-c57b984c-59fe-4dc2-af4e-50702e5ce2f6.png)
